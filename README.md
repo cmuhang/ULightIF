@@ -1,6 +1,6 @@
 <h1 align="center">[IEEE Transactions on Multimedia 2026] ULightIF</h1>
 
----
+
 
 <p align="center">
   <em>ULightIF: Unsupervised Low Light Infrared and Visible Image Fusion Method</em>
@@ -20,12 +20,12 @@
   <img src="images/framework.png" alt="ULightIF Framework" width="88%">
 </p>
 
----
+
 
 ## 🙌 1 Introduction
 * This is the official implementation of our paper titled "ULightIF: Unsupervised Low Light Infrared and Visible Image Fusion Method". This paper has been accepted by IEEE Transactions on Multimedia.
 * If you have any question about this code, feel free to reach me(cmuhang@163.com)
----
+
 
 
 
@@ -36,13 +36,13 @@ Download the corresponding datasets following their official instructions, and t
 
 
 
----
+
 ## 🛠️ 3 Pretrained Weights
 Please download the weights and place them in the `weights` folder.
 
 The pretrained weights are available at [Google Drive]() | [Baidu Drive]() (code: ULightIF).
 
----
+
 
 
 
@@ -74,7 +74,7 @@ To test your own trained model, run:
 python test.py
 ```
 
----
+
 
 
 
