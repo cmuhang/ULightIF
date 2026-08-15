@@ -7,7 +7,7 @@
   <a href="https://github.com/cmuhang/ULightIF" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Code" />
   </a>
-  <a href="YOUR_IEEE_XPLORE_LINK" style="text-decoration:none; margin-left:8px;">
+  <a href="https://ieeexplore.ieee.org/document/11655203" style="text-decoration:none; margin-left:8px;">
     <img src="https://img.shields.io/badge/Paper-IEEE%20Xplore-00629B?style=flat-square&logo=ieee&logoColor=white" alt="Paper" />
   </a>
 </p>
@@ -58,10 +58,18 @@ python test.py
 ```
 
 ## ❤️ Citation
-If you find our work useful for your research, please cite our paper. The BibTeX citation will be updated once the publication information becomes available.
+If you find our work useful for your research, please cite our paper. 
 
 ```
-
+@ARTICLE{cheng2026ulight,
+  author={Cheng, Muhang and Huang, Haiyan and Mo, Hongwei},
+  journal={IEEE Transactions on Multimedia}, 
+  title={ULightIF: Unsupervised Low Light Infrared and Visible Image Fusion Method}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-13},
+  doi={10.1109/TMM.2026.3723605}}
 ```
 
 ## Related Work
