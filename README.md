@@ -74,6 +74,16 @@ If you find our work useful for your research, please cite our paper.
 
 ## Related Work
 ```
+@ARTICLE{11673287,
+  author={Cheng, Muhang and Mo, Hongwei},
+  journal={IEEE Transactions on Multimedia}, 
+  title={SpikeVFuse: Enhancing Infrared and Visible Image Fusion with Spiking Neural Networks}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-13},
+  doi={10.1109/TMM.2026.3729390}}
+
 @ARTICLE{cheng2025fdfuse,
   author={Cheng, Muhang and Huang, Haiyan and Liu, Xiangyu and Mo, Hongwei and Wu, Songling and Zhao, Xiongbo},
   journal={IEEE Transactions on Instrumentation and Measurement}, 
@@ -83,6 +93,16 @@ If you find our work useful for your research, please cite our paper.
   number={},
   pages={1-13},
   doi={10.1109/TIM.2025.3551460}}
+
+@article{cheng2025lefuse,
+  title={LEFuse: Joint low-light enhancement and image fusion for nighttime infrared and visible images},
+  author={Cheng, Muhang and Huang, Haiyan and Liu, Xiangyu and Mo, Hongwei and Zhao, Xiongbo and Wu, Songling},
+  journal={Neurocomputing},
+  volume={626},
+  pages={129592},
+  year={2025},
+  publisher={Elsevier}
+}
 ```
 
 ## Acknowledgements
